@@ -1,4 +1,4 @@
-# Organizador de arquivos e fotos em Datas
+# Organizador de arquivos e fotos com Datas
 
 ## Tabela de conteúdos
 
